@@ -1,6 +1,6 @@
 # Hi there 👋
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/rammerbot/files/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png?token=GHSAT0AAAAAACRF553ITDCSGNATCB67NXR2ZSTW5RQ" alt="rammer_banner" style="width: 100%;"/>
+  <img src="https://github.com/rammerbot/files/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png?raw=true" alt="rammer_banner" style="width: 100%;"/>
 </div>
 
 ### <div align="center">I'm Rammer, a full-time Python developer 👨‍💻with proficiency in Data Science 🚀</div>  
