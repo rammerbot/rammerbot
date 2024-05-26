@@ -3,7 +3,7 @@
 ### <div align="center">I'm Rammer, a full-time Python developer 👨‍💻with proficiency in Data Science 🚀</div>  
   
 
-- 🔭 I’m currently working on an e-commerce app with React js in frontend and Python with Django for backend  
+- 🔭 I’m currently improving my skills in field of Data Science.  
   
 
 - ❓ Ask me about anything related to science and industrial mechanics  
