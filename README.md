@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=magenta&size=30&center=true&vCenter=true&width=600&height=100&lines=Hi+There+I'm+Rammer+Gomez..&hearts;++;Python+Developer,;focusing+on+Data+Science,;Active+Learner/Researcher,;welcome+to+my+place"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=30&center=true&vCenter=true&width=600&height=100&lines=Hi+There+I'm+Rammer+Gomez..&hearts;++;Python+Developer,;focusing+on+Data+Science,;Active+Learner/Researcher,;welcome+to+my+place"></a>
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -107,10 +107,14 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rammerbot&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+</div>
 
-<br/>  
+<div align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+
+</br>
 
 
 ## Recent Blog Posts  
