@@ -1,9 +1,13 @@
-# Hi there 👋
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=magenta&size=30&center=true&vCenter=true&width=600&height=100&lines=Hi+There+I'm+Rammer+Gomez..&hearts;++;Python+Developer,;focusing+on+Data+Science,;Active+Learner/Researcher,;welcome+to+my+place"></a>
+</p>
+
 <div style="text-align: center;">
   <img src="https://github.com/rammerbot/files/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.gif?raw=true" alt="rammer_banner" style="width: 100%;"/>
 </div>
 
-### <div align="center">I'm Rammer, a full-time Python developer 👨‍💻with proficiency in Data Science 🚀</div>  
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
   
 
 - 🔭 I’m currently improving my skills in field of Data Science.  
@@ -12,16 +16,12 @@
 - ❓ Ask me about anything related to science and industrial mechanics  
   
 
-- ⚡ Fun fact: I like online games but I'm bad at them. 
-  
+- ⚡ Fun fact: I like online games but I'm bad at them.   
 
 <br/>  
 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
