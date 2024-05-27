@@ -2,7 +2,7 @@
 
 
 <div style="text-align: center;">
-  <img src="https://github.com/rammerbot/files/blob/main/CLICK%20HER%20(2).gif?raw=true" alt="rammer_banner" style="width: 100%;"/>
+  <img src="https://github.com/rammerbot/rammerbot/blob/main/Banner_s.gif?raw=true" alt="rammer_banner" style="width: 100%;"/>
 </div>
 
 <p align="center">
